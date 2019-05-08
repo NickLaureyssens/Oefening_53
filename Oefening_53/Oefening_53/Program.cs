@@ -7,6 +7,17 @@ namespace Oefening_53
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! Hello World! Hello World!");
+
+            var test = new Test();
+
+            test.Output();
+
+
+
+            Console.ReadLine();
+
+
+
         }
     }
 }
